@@ -1,0 +1,51 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HATTHA BANK PROJECT-1F
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, VIP BANKING
+
+## Media
+
+### Title
+map_AC3CC0FB_A291_E3B6_41E3_36468E93A05B.label = 3.24 OFFICE TOWER-12F-MINI MAP NUMBER CODE
+panorama_A91545E7_A291_ADDF_41DD_67BCBE200C21.label = 12F_VP ROOM 2
+panorama_A9170343_A291_66D7_41BF_2B7485B46211.label = 12F_Working Area 13
+panorama_A91705FC_A291_ADB2_41D7_86A3AEB55CC8.label = 12F_Working Area 9
+panorama_A9170BE2_A290_A5D6_41C1_49530EED0603.label = 12F_Working Area 19
+panorama_A9170DF8_A291_BDB1_41D9_744D9D723F35.label = 12F_Working Area 8
+panorama_A9173000_A291_A252_41D7_0DED20B396B0.label = 12F_Working Area 6
+panorama_A917446A_A290_E2D1_41E3_2B9DD18E85EC.label = 12F_Working Area 20
+panorama_A9174DA0_A291_A252_41D3_7C7483611AF6.label = 12F_Working Area 10
+panorama_A9174E05_A290_BE52_41C6_3B9E70DBEE77.label = 12F_Working Area 17
+panorama_A9175D9C_A291_A272_41D5_A3D7F315E7A9.label = 12F_Working Area 1
+panorama_A9176249_A291_E6D3_41C3_BE9C61CCEC89.label = 12F_Working Area 4
+panorama_A917641A_A291_E271_41E4_36802D30D077.label = 12F_Working Area 2
+panorama_A917C478_A290_A2B2_41E0_C9717AD6DC6B.label = 12F_Working Area 18
+panorama_A917CC4C_A291_E2D1_41D7_E0A1DBBEDAAB.label = 12F_Working Area 3
+panorama_A917D77C_A290_AEB2_41CA_C131F7946E5A.label = 12F_Working Area 16
+panorama_A917DB77_A291_66BF_41CA_198B132742EF.label = 12F_Working Area 12
+panorama_A917F3F7_A291_65BF_41C9_E10C910A3313.label = 12F_Working Area 11
+panorama_A917F756_A291_AEF1_41D5_A5FABE11CA88.label = 12F_Working Area 7
+panorama_A917F927_A291_625F_41B7_BAE5405A9939.label = 12F_Working Area 14
+panorama_AF613E7E_A291_BEB1_4186_65F4521D772E.label = 12F_VP ROOM 1
+panorama_B21AD864_A339_5510_41D7_71FC3C6642A4.label = 12F_Working Area 5
+panorama_B3B95AE1_A307_551A_41E0_5C6DA94AA164.label = 12F_Working Area 15
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
